@@ -15,3 +15,4 @@ Introduce Project
 
 게임 실행 동영상
 --------------
+PLMS Term Project 확인해주세요.
